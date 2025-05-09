@@ -2,7 +2,7 @@
 
 ![IMCApp Screenshot](https://raw.githubusercontent.com/Marcos-Valee/IMC-Metric-and-Imperial/main/src/images/capturaDeTela.png)
 
-Confira o projeto online: [WeatherApp - Deploy no Netlify](https://imc-metric-and-imperial.netlify.app/)
+Confira o projeto online: [IMCApp - Deploy no Netlify](https://imc-metric-and-imperial.netlify.app/)
 
 Este é um projeto de uma **Calculadora de IMC (Índice de Massa Corporal)** desenvolvido em **React**. A aplicação permite calcular o IMC com base no peso e altura fornecidos, suportando os sistemas métrico e imperial.
 
