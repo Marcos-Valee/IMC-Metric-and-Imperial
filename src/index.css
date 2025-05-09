@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+body{
+    background-color: #eaeaeb;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url('./images/background.png');
+  background-size: cover;     
+  background-repeat: no-repeat;  
+  background-position: center;   
+}
