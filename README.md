@@ -1,6 +1,6 @@
 # 📊 Calculadora de IMC
 
-![Captura de Tela](./src/images/capturaDeTela.png)
+![IMCApp Screenshot](https://raw.githubusercontent.com/Marcos-Valee/IMC-Metric-and-Imperial/main/src/images/capturaDeTela.png)
 
 Este é um projeto de uma **Calculadora de IMC (Índice de Massa Corporal)** desenvolvido em **React**. A aplicação permite calcular o IMC com base no peso e altura fornecidos, suportando os sistemas métrico e imperial.
 
